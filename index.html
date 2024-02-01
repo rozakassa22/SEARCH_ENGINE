@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Query Form</title>
+    <title>Search Engine</title>
 </head>
 <body>
-    <h1>Query Form</h1>
+    <h1>Search Engine</h1>
     <form action="/search" method="POST">
-        <input type="text" name="query" placeholder="Enter your query">
-        <input type="submit" value="Search">
+        <label for="query">Query:</label>
+        <input type="text" id="query" name="query" required>
+        <br>
+        <label>Model:</label>
+        <select id="model" name="model" required>
+            <option value="boolean">Boolean Model</option>
+            <option value="vector">Vector Model</option>
+        </select>
+        <br>
+        <button type="submit">Search</button>
     </form>
 </body>
 </html>
