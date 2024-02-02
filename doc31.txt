@@ -1,0 +1,1 @@
+Computer Graphics: Computer graphics involve creating, manipulating, and displaying visual content on a computer. This field covers areas like 2D and 3D graphics, rendering techniques, animation, virtual reality (VR), and computer-aided design (CAD).

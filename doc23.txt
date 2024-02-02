@@ -1,0 +1,1 @@
+Hardware Components: Computers consist of various hardware components, such as the CPU, which performs calculations and executes instructions, and memory (RAM), which temporarily stores data and instructions for quick access. Other components include storage devices (hard drives, SSDs), graphics cards, sound cards, network cards, and power supply units.

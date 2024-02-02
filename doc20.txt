@@ -1,0 +1,1 @@
+Computers typically run an operating system (OS) that provides an interface between the hardware and software. Popular operating systems include Windows, macOS, and Linux. The OS manages resources, controls hardware devices, and allows users to interact with the computer through a graphical user interface (GUI) or command-line interface (CLI).

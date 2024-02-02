@@ -1,0 +1,2 @@
+Software: Software refers to the programs and instructions that tell a computer what to do. It includes system software (e.g., operating systems, device drivers) and application software (e.g., word processors, web browsers, games). Software can be written in various programming languages like C, Java, Python, and more.
+

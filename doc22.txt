@@ -1,0 +1,1 @@
+Binary System: Computers use a binary system, which represents data and instructions using only two digits: 0 and 1. This system is the basis of all digital computing, and binary numbers are used to store and process information within a computer.

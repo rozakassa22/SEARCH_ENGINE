@@ -1,0 +1,1 @@
+Computer Networking: Computers can connect to each other through networks, enabling data sharing, communication, and resource sharing. Local Area Networks (LANs) connect computers within a limited area, while Wide Area Networks (WANs) connect computers over larger distances, such as the internet.

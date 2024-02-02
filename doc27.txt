@@ -1,0 +1,1 @@
+Security: Computer security is essential to protect data and systems from unauthorized access, malware, and other threats. This includes using firewalls, antivirus software, encryption, and implementing secure practices when handling sensitive information.

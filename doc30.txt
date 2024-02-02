@@ -1,0 +1,1 @@
+Computer Networks: Computer networks allow multiple computers to communicate and share resources. Networking concepts include protocols (such as TCP/IP), network topologies (such as star, ring, and mesh), network devices (such as routers and switches), and network security.

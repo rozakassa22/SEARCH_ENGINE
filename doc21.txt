@@ -1,0 +1,1 @@
+Computer Architecture: Computers are designed based on a specific architecture, which defines the organization and functionality of its components. The most common architecture for personal computers is the von Neumann architecture, which includes a CPU, memory, input/output devices, and a system bus for data transfer.

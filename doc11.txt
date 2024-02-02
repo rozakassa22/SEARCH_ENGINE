@@ -1,0 +1,1 @@
+Processing and executing instructions: Computers can perform arithmetic and logical operations, manipulate data, and execute instructions stored in memory.

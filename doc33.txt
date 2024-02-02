@@ -1,0 +1,1 @@
+Embedded Systems: Embedded systems are specialized computer systems designed for specific tasks and embedded within other devices or systems. They are found in various applications like automotive systems, medical devices, industrial control systems, and IoT (Internet of Things) devices.

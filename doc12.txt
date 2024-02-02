@@ -1,0 +1,1 @@
+Data storage and retrieval: Computers can store and retrieve data from various storage devices, such as hard drives, solid-state drives, and optical media.
